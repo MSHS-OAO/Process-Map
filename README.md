@@ -19,4 +19,6 @@ Asala added a line to test the fetch command for pre-demo
 Live demo for 1/27
 asala test live demo 01/27/2021
 
-Live demo 1/27 11:42 create merge conflict local
+Live demo 1/27 11:42 
+
+
